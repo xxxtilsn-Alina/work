@@ -29,6 +29,7 @@
 
 .link:hover {
   color: rgb(64, 175, 64);
+  font-size: 18px;
 }
 
 .title {
@@ -36,7 +37,7 @@
   font-size: 95px;
   width: 70%;
   letter-spacing: 3px;
-  padding-top: 400px;
+  padding-top: 370px;
   font-style: italic;
   font-weight: 500;
 }
